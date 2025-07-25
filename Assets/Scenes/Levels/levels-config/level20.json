@@ -1,0 +1,20 @@
+{
+  "levelNumber": 20,
+  "levelDuration": 200,
+  "monsterWaves": [
+    {
+      "spawnTime": 5,
+      "monsters": [
+        {
+          "type": "Guardian",
+          "count": 1,
+          "healthModifier": 3.0,
+          "speedModifier": 1.4,
+          "damageModifier": 2.7,
+          "attackDistanceModifier": 1.3,
+          "spawnPoints": ["8"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: sea
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 685483142, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: 1523077366, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: -463388336, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: 159033491, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: -625370456, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: 374506251, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: 739888302, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: 1412627155, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  - {fileID: 1397671424, guid: d5bf72af1b36dbf4aa7ee9baba5048c9, type: 3}
+  m_MinSpeed: 2
+  m_MaxSpeed: 2
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

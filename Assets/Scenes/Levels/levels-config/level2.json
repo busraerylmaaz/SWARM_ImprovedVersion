@@ -1,0 +1,43 @@
+{
+  "levelNumber": 2,
+  "levelDuration": 60,
+  "monsterWaves": [
+    {
+      "spawnTime": 2,
+      "monsters": [
+        {
+          "type": "SkeletonNPC",
+          "count": 20,
+          "healthModifier": 1.1,
+          "speedModifier": 1.3,
+          "damageModifier": 1.1,
+          "attackDistanceModifier": 1.5,
+          "spawnPoints": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15"]
+        },
+        {
+          "type": "GoblinNPC",
+          "count": 5,
+          "healthModifier": 1.1,
+          "speedModifier": 1.3,
+          "damageModifier": 1.1,
+          "attackDistanceModifier": 1.0,
+          "spawnPoints": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15"]
+        }
+      ]
+    },
+    {
+      "spawnTime": 10,
+      "monsters": [
+        {
+          "type": "FlyingEyeNPC",
+          "count": 7,
+          "healthModifier": 1.1,
+          "speedModifier": 1.3,
+          "damageModifier": 1.1,
+          "attackDistanceModifier": 1.0,
+          "spawnPoints": ["1","2","3","12","13","14","15"]
+        }
+      ]
+    }
+  ]
+}

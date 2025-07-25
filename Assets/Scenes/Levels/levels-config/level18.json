@@ -1,0 +1,113 @@
+{
+  "levelNumber": 18,
+  "levelDuration": 220,
+  "monsterWaves": [
+    {
+      "spawnTime": 4,
+      "monsters": [
+        {
+          "type": "Sprout",
+          "count": 10,
+          "healthModifier": 1.5,
+          "speedModifier": 1.4,
+          "damageModifier": 1.2,
+          "attackDistanceModifier": 1.3,
+          "spawnPoints": ["1","2","4","6","8","10","12","14","15"]
+        }
+        
+      ]
+    },
+    {
+      "spawnTime": 17,
+      "monsters": [
+        {
+          "type": "Seeker",
+          "count": 3,
+          "healthModifier": 1.6,
+          "speedModifier": 1.5,
+          "damageModifier": 1.5,
+          "attackDistanceModifier": 1.5,
+          "spawnPoints": ["2","3","4","5"]
+        },
+        {
+          "type": "FlyingDeamon",
+          "count": 3,
+          "healthModifier": 1.4,
+          "speedModifier": 1.3,
+          "damageModifier": 1.2,
+          "attackDistanceModifier": 1.5,
+          "spawnPoints": ["11","13","15"]
+        }
+      ]
+    },
+    {
+      "spawnTime": 29,
+      "monsters": [
+        {
+          "type": "Skeleton2",
+          "count": 4,
+          "healthModifier": 1.6,
+          "speedModifier": 1.4,
+          "damageModifier": 1.4,
+          "attackDistanceModifier": 1.4,
+          "spawnPoints": ["1","2","3","4","5"]
+        },
+        {
+          "type": "BatNPC",
+          "count": 4,
+          "healthModifier": 1.2,
+          "speedModifier": 1.2,
+          "damageModifier": 1.1,
+          "attackDistanceModifier": 1.3,
+          "spawnPoints": ["6","8","10","12"]
+        }
+      ]
+    },
+    {
+      "spawnTime": 38,
+      "monsters": [
+        {
+          "type": "ArcaneNPC",
+          "count": 4,
+          "healthModifier": 1.5,
+          "speedModifier": 1.4,
+          "damageModifier": 1.5,
+          "attackDistanceModifier": 1.3,
+          "spawnPoints": ["1","3","5","7"]
+        },
+        {
+          "type": "Sprout",
+          "count": 4,
+          "healthModifier": 1.6,
+          "speedModifier": 1.5,
+          "damageModifier": 1.4,
+          "attackDistanceModifier": 1.0,
+          "spawnPoints": ["9","11","13","15"]
+        }
+      ]
+    },
+    {
+      "spawnTime": 47,
+      "monsters": [
+        {
+          "type": "DarkSamuray",
+          "count": 3,
+          "healthModifier": 1.7,
+          "speedModifier": 1.5,
+          "damageModifier": 1.5,
+          "attackDistanceModifier": 1.0,
+          "spawnPoints": ["2","4","6"]
+        },
+        {
+          "type": "GolemOrangeNPC",
+          "count": 2,
+          "healthModifier": 1.6,
+          "speedModifier": 1.3,
+          "damageModifier": 1.6,
+          "attackDistanceModifier": 1.0,
+          "spawnPoints": ["12","14"]
+        }
+      ]
+    }
+  ]
+}
